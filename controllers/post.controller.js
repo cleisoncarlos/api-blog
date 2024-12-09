@@ -1,24 +1,45 @@
 import PostService from '../services/post.service.js'
 
-async function createPost(req, res, next) {
-  try {
-    let post = req.body;
-     
-    if (
-      !post.title ||
-      !post.content     
+async function createPost(req, res, next) { 
+  try { 
+    let post = req.body; 
+    console.log('Dados do post recebidos:', post); 
+console.log(`A IMAGEM É ESSA ${req.file}`)
 
-    ) {
-      throw new Error("Todas as informações são obrigatórias !");
+     // Verifica se o arquivo foi enviado 
+     if (!req.file) { 
+      throw new Error("A imagem é obrigatória para criar um post!");
+     } 
+     // Adiciona o caminho da imagem ao objeto post 
+     const urlImagePost = `../public/${req.file.filename}`; 
+     post.urlImagePost = urlImagePost; 
+
+     console.log('Caminho da imagem:', urlImagePost); 
+
+
+     // Verifica se todas as informações obrigatórias do post estão presentes 
+     if (!post.title || !post.categoryId || !post.content
+     ) { 
+      throw new Error("Todas as informações do post são obrigatórias!"); 
     }
-    post = await PostService.createPost(post);
-    res.send(post);
-    logger.info(`POST /post - ${JSON.stringify(post)}`);
 
-  } catch (err) {
-    next(err);
+
+     
+   
+    // Salva o post no banco de dados 
+    post = await PostService.createPost(post); 
+    console.log('Post salvo:', post); 
+
+   
+
+    // Responde ao cliente 
+    res.status(201).send(post); 
+    logger.info(`POST /post - ${JSON.stringify(post)}`); 
+  } catch (err) { 
+    console.error('Erro ao criar post:', err.message);
+     next(err); 
+    } 
   }
-}
 
 //========================
 

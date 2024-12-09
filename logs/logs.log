@@ -1,3 +1,193 @@
-2024-11-19T14:35:13.581Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
-2024-11-19T14:35:25.419Z [blog-api] info: API iniciou na porta 3333
-2024-11-19T14:35:25.558Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+
+2024-12-09T15:09:02.488Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T15:09:06.036Z [blog-api] info: POST /post - {"title":"titulo do post 2","content":"conteudo aqui 2","categoryId":"ae18f2a1-3cf0-472a-a3e9-575f3dddbad4","urlImagePost":"/public/1733756946020_first-mob.png","slug":"titulo-do-post-2"}
+2024-12-09T15:26:09.098Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T15:26:09.242Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T15:26:14.516Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T15:26:14.658Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T15:26:24.253Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T15:26:24.391Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T15:26:34.168Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T15:26:34.315Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T15:26:54.212Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T15:26:54.360Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T15:33:29.722Z [blog-api] info: GET /posts
+2024-12-09T15:34:13.466Z [blog-api] info: GET /posts
+2024-12-09T15:34:47.630Z [blog-api] info: GET /posts
+2024-12-09T15:35:11.344Z [blog-api] info: GET /posts
+2024-12-09T17:28:32.167Z [blog-api] info: POST /login
+2024-12-09T17:28:50.445Z [blog-api] info: GET /categories
+2024-12-09T17:29:13.814Z [blog-api] error: Erro: POST undefined - Multipart: Boundary not found
+2024-12-09T17:30:18.978Z [blog-api] info: GET /categories
+2024-12-09T17:31:03.257Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:31:06.107Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:31:14.532Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:32:15.006Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:32:15.180Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:32:48.964Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:32:49.123Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:32:54.911Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:33:10.514Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:33:11.042Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:33:14.009Z [blog-api] error: Erro: POST undefined - Cannot read properties of undefined (reading 'filename')
+2024-12-09T17:35:28.696Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:35:28.978Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:35:30.841Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:35:31.083Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:35:39.464Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:36:04.662Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:36:04.798Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:36:10.984Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:39:21.744Z [blog-api] info: GET /categories
+2024-12-09T17:39:48.613Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:39:48.814Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:39:53.283Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:40:23.761Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:40:24.031Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:40:24.662Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:40:52.137Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:40:52.280Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:41:00.991Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:41:51.236Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:41:51.389Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:41:56.122Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:42:25.829Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:42:26.072Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:42:30.742Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:46:19.483Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:46:19.631Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:46:34.134Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:46:34.318Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:46:41.752Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:46:45.414Z [blog-api] info: GET /categories
+2024-12-09T17:46:45.416Z [blog-api] info: GET /categories
+2024-12-09T17:47:28.813Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:48:17.210Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:48:17.366Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:48:19.893Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:50:09.786Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:50:41.446Z [blog-api] info: GET /categories
+2024-12-09T17:50:46.775Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:53:59.913Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T17:54:00.097Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T17:54:05.916Z [blog-api] info: GET /categories
+2024-12-09T17:54:05.919Z [blog-api] info: GET /categories
+2024-12-09T17:54:20.561Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:57:46.090Z [blog-api] info: GET /categories
+2024-12-09T17:58:02.590Z [blog-api] info: GET /categories
+2024-12-09T17:58:02.594Z [blog-api] info: GET /categories
+2024-12-09T17:58:23.965Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:58:33.102Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:59:19.025Z [blog-api] info: GET /categories
+2024-12-09T17:59:21.606Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T17:59:27.765Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:02:18.264Z [blog-api] info: GET /categories
+2024-12-09T18:02:29.158Z [blog-api] info: GET /categories
+2024-12-09T18:03:08.952Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:03:09.122Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:03:22.854Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:03:51.826Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:07:10.618Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:07:10.807Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:07:22.424Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:12:18.438Z [blog-api] info: GET /categories
+2024-12-09T18:12:33.796Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:13:29.075Z [blog-api] info: GET /categories
+2024-12-09T18:13:33.261Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:13:37.788Z [blog-api] info: GET /categories
+2024-12-09T18:13:37.790Z [blog-api] info: GET /categories
+2024-12-09T18:13:48.144Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:16:17.716Z [blog-api] info: GET /categories
+2024-12-09T18:16:20.156Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:17:10.323Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:17:14.217Z [blog-api] info: GET /categories
+2024-12-09T18:17:14.219Z [blog-api] info: GET /categories
+2024-12-09T18:17:34.849Z [blog-api] info: GET /categories
+2024-12-09T18:17:37.963Z [blog-api] info: GET /categories
+2024-12-09T18:17:49.738Z [blog-api] error: Erro: POST undefined - Unexpected field
+2024-12-09T18:18:04.256Z [blog-api] info: GET /categories
+2024-12-09T18:18:07.277Z [blog-api] info: GET /categories
+2024-12-09T18:18:25.223Z [blog-api] info: GET /categories
+2024-12-09T18:18:27.361Z [blog-api] error: Erro: POST undefined - Multipart: Boundary not found
+2024-12-09T18:18:56.479Z [blog-api] info: GET /categories
+2024-12-09T18:18:59.563Z [blog-api] error: Erro: POST undefined - Multipart: Boundary not found
+2024-12-09T18:19:11.664Z [blog-api] error: Erro: POST undefined - Multipart: Boundary not found
+2024-12-09T18:19:34.256Z [blog-api] info: GET /categories
+2024-12-09T18:19:38.434Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:21:20.480Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:21:35.911Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:22:15.048Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:22:38.657Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:24:02.975Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:24:23.971Z [blog-api] info: POST /login
+2024-12-09T18:24:44.911Z [blog-api] info: GET /categories
+2024-12-09T18:24:52.445Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:25:18.092Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:25:18.234Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:27:33.545Z [blog-api] info: GET /categories
+2024-12-09T18:27:55.385Z [blog-api] info: GET /categories
+2024-12-09T18:28:56.384Z [blog-api] info: GET /categories
+2024-12-09T18:29:19.598Z [blog-api] info: GET /categories
+2024-12-09T18:29:19.612Z [blog-api] info: GET /categories
+2024-12-09T18:30:24.665Z [blog-api] info: GET /categories
+2024-12-09T18:30:24.674Z [blog-api] info: GET /categories
+2024-12-09T18:30:36.983Z [blog-api] info: GET /categories
+2024-12-09T18:30:36.985Z [blog-api] info: GET /categories
+2024-12-09T18:30:46.126Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:32:40.352Z [blog-api] info: GET /categories
+2024-12-09T18:32:47.632Z [blog-api] error: Erro: POST undefined - Unexpected field
+2024-12-09T18:32:58.376Z [blog-api] info: GET /categories
+2024-12-09T18:34:41.037Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:34:41.367Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:34:47.946Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:34:48.086Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:35:19.628Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:35:19.776Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:35:25.376Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:35:26.737Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:35:27.218Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:35:27.874Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:35:28.137Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:35:28.357Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:35:28.635Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:35:28.809Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:35:32.288Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:38:02.548Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:38:02.867Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:38:08.428Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:38:08.622Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:38:16.824Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:38:42.929Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:38:43.080Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:38:47.706Z [blog-api] error: Erro: POST undefined - Cannot read properties of undefined (reading 'filename')
+2024-12-09T18:42:37.708Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:42:37.977Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:42:39.133Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:42:39.309Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:42:42.085Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:42:42.325Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:42:51.932Z [blog-api] error: Erro: POST undefined - ENOENT: no such file or directory, open 'C:\Users\Mentor\Desktop\blog-fullstack\public\1733769771929_81SkO6EkjUL._AC_UL900_SR615,900_.jpg'
+2024-12-09T18:43:21.868Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:43:22.017Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:43:30.282Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:43:30.458Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:43:35.535Z [blog-api] info: POST /post - {"title":"titulo do post 2","content":"conteudo aqui 2","categoryId":"ae18f2a1-3cf0-472a-a3e9-575f3dddbad4","urlImagePost":"/public/1733769815510_81SkO6EkjUL._AC_UL900_SR615,900_.jpg","slug":"titulo-do-post-2"}
+2024-12-09T18:43:47.054Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:43:47.192Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:43:53.638Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:44:18.569Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:44:18.752Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:44:27.691Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:44:27.836Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:44:33.207Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:45:10.590Z [blog-api] info: API iniciou na porta 3333
+2024-12-09T18:45:10.768Z [blog-api] info: Conexão com a base de dados realizado com sucesso!.
+2024-12-09T18:45:16.067Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:45:32.389Z [blog-api] info: POST /post - {"title":"titulo do post 2","content":"conteudo aqui 2","categoryId":"ae18f2a1-3cf0-472a-a3e9-575f3dddbad4","urlImagePost":"../public/1733769932375_81SkO6EkjUL._AC_UL900_SR615,900_.jpg","slug":"titulo-do-post-2"}
+2024-12-09T18:46:20.840Z [blog-api] error: Erro: POST undefined - A imagem é obrigatória para criar um post!
+2024-12-09T18:46:53.004Z [blog-api] info: GET /categories
+2024-12-09T18:47:05.484Z [blog-api] error: Erro: POST undefined - Multipart: Boundary not found
+2024-12-09T18:47:27.873Z [blog-api] info: GET /categories
+2024-12-09T18:47:29.614Z [blog-api] error: Erro: POST undefined - Multipart: Boundary not found
+2024-12-09T18:47:39.961Z [blog-api] info: GET /categories
+2024-12-09T18:47:41.404Z [blog-api] error: Erro: POST undefined - Todas as informações do post são obrigatórias!

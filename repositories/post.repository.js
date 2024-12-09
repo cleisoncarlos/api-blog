@@ -1,6 +1,8 @@
 
 import Post from '../models/post.model.js'
 import Category from '../models/category.model.js'
+
+
 async function createPost(post) {
   try {
     Post.create(post);
@@ -10,7 +12,6 @@ async function createPost(post) {
     throw err;
   }
 }
-
 
 async function getPost(id) {
   try {

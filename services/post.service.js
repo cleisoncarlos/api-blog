@@ -4,7 +4,7 @@ import slugify from 'slugify';
 
 async function createPost(post) {
   // Gera o slug a partir do título
-  post.slug = slugify(post.title , { lower: true, strict: true });
+  post.slug = slugify(post.title, { lower: true, strict: true });
   return await PostRepository.createPost(post); 
 }
 
